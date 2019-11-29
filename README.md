@@ -1,4 +1,5 @@
 # Kata library 
+#Alexandre est passé par ici
 
 Sources du Kata library...
 
@@ -14,8 +15,6 @@ Une fois le Projet finit faire un PULL_REQUEST...
 
 Si vous avez une question... voir le Wiki
 
-T
-E
-S
-T
-2
+# Contributeurs
+- NGUYEN Daniel
+- Henri Joel
